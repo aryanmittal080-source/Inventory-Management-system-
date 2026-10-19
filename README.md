@@ -164,7 +164,7 @@ Inventory-Management-system/
 
 <div align="center">
 
-### Made with ❤️ by **Aryan Mittal**
+### Made by **Aryan Mittal**
 Galgotias University · Admission No. 25SCSE1410263
 
 </div>
